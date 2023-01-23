@@ -5,3 +5,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive, ahk_class StarCraft II
 Space::Alt
+RAlt::Ctrl
